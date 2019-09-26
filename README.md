@@ -1,4 +1,4 @@
-![Project Banner](/assets/temp_visuals/gorogue-ebook.png)
+![Project Banner](/assets/template_visuals/gorogue-ebook.png)
 
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
