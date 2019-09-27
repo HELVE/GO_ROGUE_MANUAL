@@ -27,9 +27,8 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 6. [Credits.](#credits)
 
 ### Features
-+ comprehensive creative project framework
-+ customizable project folder structure 
-+ 4 gallery templates including .psd and .afdesign project files
++ 5 processes you can implement into your personal, creative and business life.
++ build a discovery framework in your mind
 
 <a name="install"></a>
 ### Installation and Usage Guide [UPDATED]
