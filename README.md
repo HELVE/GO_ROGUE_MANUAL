@@ -3,11 +3,13 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# GO ROGUE! - Book On Creative Processes & Methods
+# GO ROGUE! - Manual On Creative Processes & Methods
 
 > "Dive into chaos, come out enlightened!"
 
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+Go Rogue is an essay on creative processes and methodologies that can be used throughout a variety of industries and apply to  every individual willing to take his progress into their hands. 
+
+the project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
