@@ -28,7 +28,9 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 ### Features
 + 5 processes you can implement into your personal, creative and business life.
-+ build a discovery framework in your mind
++ build a discovery framework in your mind (project 'Dopamine Trails')
++ personal experience with creativity (artist vs craftsman)
++ experimental approach
 
 <a name="install"></a>
 ### Installation and Usage Guide [UPDATED]
