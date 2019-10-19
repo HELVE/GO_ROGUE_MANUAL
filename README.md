@@ -11,6 +11,10 @@ Go Rogue is an essay on creative processes and methodologies that can be used th
 
 the project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
 
+Chapters:
+- Go into chaos to create your own order.
+- Dopamine Trails - optimization
+
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
