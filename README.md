@@ -23,7 +23,9 @@ Notes and quotes below could potentially go into Dopamine Trails philosophical f
 - now it is gravity (collapsing universe) vs dark energy (shredding the universe)
 - in this struggle human is never portrayed accurately - we are always the ones subjugated and hopeless.
 - Jake Abernovsky "Man is not a figure in the landscape, he is the shaper of the landscape" but we are not the rulers of cosmic forces, we the their users. what creates novelty? (why create, why experiment? origin of Helve AVR, a war against staticity)
-- novelty was created with big bang. then at some point it vanished from the universe 12-13 billion years ago
+- novelty was created with big bang. then at some point it vanished from the universe 12-13 billion years ago until now.
+Until now it was the Era of Great Monotony (of novelty). There was an event tho, origin of life coding for the biological adaptations, building DNA repositories. Coding for novelty. Experimentation. Then explanatory knowledge in humans arrived as a defining adaptation of our species.
+- powerful things affect strongly the lesser things not the other way around.
 ---
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
