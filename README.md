@@ -15,6 +15,7 @@ Chapters:
 - Go into chaos to create your own order.
 - Dopamine Trails - optimization
 - "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose." "Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
+- EXPLAINING THE SUFFERING - lack of progress, lack of real solution. "Suffering is intimately related to staticity because staticity isn't just frustrating -all source of suffering like famine, pandemics, incoming asteroids, war and slavery hurt people only until we've created a knowledge to prevent them" (or even just a new perspective)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
