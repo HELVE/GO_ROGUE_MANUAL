@@ -17,10 +17,10 @@ Chapters:
 - "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose." "Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
 
 Notes and quotes below could potentially go into Dopamine Trails philosophical foundation rather than this book.
-
+---
 - EXPLAINING THE SUFFERING IN ANCIENT TIMES - lack of progress, lack of real solution. "Suffering is intimately related to staticity because staticity isn't just frustrating -all source of suffering like famine, pandemics, incoming asteroids, war and slavery hurt people only until we've created a knowledge to prevent them" (or even just a new perspective). It was different way of processing ideas, they didn't look for alternatives, simplified, no physical reasons needed to exist to explain something.
-- back in the day used to be a war between good and evil, 
-
+- back in the day used to be a war between good and evil, then it became chaos/entropy vs order in 20th Century. "Contemporary take on good and evil is a local battle between sustainability and wastefullness." Order vs entropy in this perspective is even bleaker than good vs evil - "the villain is preordained to have the final victory."
+---
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
