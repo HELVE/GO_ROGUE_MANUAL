@@ -14,6 +14,7 @@ the project template framework created for the purpose of unifying project struc
 Chapters:
 - Go into chaos to create your own order.
 - Dopamine Trails - optimization
+- "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose." "Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
