@@ -20,6 +20,7 @@ Notes and quotes below could potentially go into Dopamine Trails philosophical f
 ---
 - EXPLAINING THE SUFFERING IN ANCIENT TIMES - lack of progress, lack of real solution. "Suffering is intimately related to staticity because staticity isn't just frustrating -all source of suffering like famine, pandemics, incoming asteroids, war and slavery hurt people only until we've created a knowledge to prevent them" (or even just a new perspective). It was different way of processing ideas, they didn't look for alternatives, simplified, no physical reasons needed to exist to explain something.
 - back in the day used to be a war between good and evil, then it became chaos/entropy vs order in 20th Century. "Contemporary take on good and evil is a local battle between sustainability and wastefullness." Order vs entropy in this perspective is even bleaker than good vs evil - "the villain is preordained to have the final victory."
+- now it is gravity (collapsing universe) vs dark energy (shredding the universe)
 ---
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
