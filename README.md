@@ -25,7 +25,7 @@ Notes and quotes below could potentially go into Dopamine Trails philosophical f
 - Jake Abernovsky "Man is not a figure in the landscape, he is the shaper of the landscape" but we are not the rulers of cosmic forces, we the their users. what creates novelty? (why create, why experiment? origin of Helve AVR, a war against staticity)
 - novelty was created with big bang. then at some point it vanished from the universe 12-13 billion years ago until now.
 Until now it was the Era of Great Monotony (of novelty). There was an event tho, origin of life coding for the biological adaptations, building DNA repositories. Coding for novelty. Experimentation. Then explanatory knowledge in humans arrived as a defining adaptation of our species.
-- powerful things affect strongly the lesser things not the other way around.
+- powerful things affect strongly the lesser things not the other way around. The Hierarchy Rule. Causing a large scale simplicity has caused The Great Monotony. but is not the rule of nature here because the Hierarchy has been violated and reversed. Humans are the ultimate agents of novelty for universe. The only way to fight The Great Monotony is constant creation and experimentation. It is the modern era of Antropocen.
 ---
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
