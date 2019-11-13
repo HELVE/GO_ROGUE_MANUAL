@@ -23,7 +23,7 @@ Optimizing your life for only one objective is a beautiful thing but very danger
 
 Similarly you can apply this notion to always having one foot in knowledge (competence) while the other is in chaos and experimentation. See, both feet in order makes you complacent. Both feet in chaos is too much. Mind in the cloud, feet on the ground.
 
-
+Technology as a tool, not an end to itself. People often focus on the technology more than on the idea when working on project. They are afraid that the "quality" will be below standards. Let me tell you something - quality is entirely subjective. Eye of the beholder and all that. 
 
 Chapters:
 - Go into chaos to create your own order.
