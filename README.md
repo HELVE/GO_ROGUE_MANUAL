@@ -25,6 +25,8 @@ Similarly you can apply this notion to always having one foot in knowledge (comp
 
 Technology as a tool, not an end to itself. People often focus on the technology more than on the idea when working on project. They are afraid that the "quality" will be below standards. Let me tell you something - quality is entirely subjective. Eye of the beholder and all that. 
 
+> All problem solvers and problem inventors have had the experience of thinking, and then overthinking, themselves into a dead end. The question we’ve all encountered—and, inevitably, will encounter again—is how to get things moving and keep them moving. That is, how to get unstuck.
+
 Chapters:
 - Go into chaos to create your own order.
 - Dopamine Trails - optimization
