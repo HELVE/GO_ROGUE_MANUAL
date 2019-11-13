@@ -27,6 +27,10 @@ Technology as a tool, not an end to itself. People often focus on the technology
 
 > All problem solvers and problem inventors have had the experience of thinking, and then overthinking, themselves into a dead end. The question we’ve all encountered—and, inevitably, will encounter again—is how to get things moving and keep them moving. That is, how to get unstuck.
 
+trigger aspect to think about:
+
+> For me, the quest for a breakthrough often requires getting myself into literal motion; one small step for Poincaré but a whole sequence of steps for me. I’ll take a long hike, during which my mind has nothing to worry about except putting one foot in front of the other, or I’ll go for a long drive, so that my primary focus is on the road. Maybe it’s the endorphins, or maybe it’s refocussing my attention on some other activity which enables a new idea. Perhaps it is the momentary feeling of being untethered that gives the mind free rein—the space to have a good idea.
+
 Chapters:
 - Go into chaos to create your own order.
 - Dopamine Trails - optimization
