@@ -25,16 +25,22 @@ Similarly you can apply this notion to always having one foot in knowledge (comp
 
 Technology as a tool, not an end to itself. People often focus on the technology more than on the idea when working on project. They are afraid that the "quality" will be below standards. Let me tell you something - quality is entirely subjective. Eye of the beholder and all that. 
 
+Chapters:
+- Go into chaos to create your own order.
+- Dopamine Trails - optimization
+
+> "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose." "Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
+
 > All problem solvers and problem inventors have had the experience of thinking, and then overthinking, themselves into a dead end. The question we’ve all encountered—and, inevitably, will encounter again—is how to get things moving and keep them moving. That is, how to get unstuck.
 
 trigger aspect to think about:
 
 > For me, the quest for a breakthrough often requires getting myself into literal motion; one small step for Poincaré but a whole sequence of steps for me. I’ll take a long hike, during which my mind has nothing to worry about except putting one foot in front of the other, or I’ll go for a long drive, so that my primary focus is on the road. Maybe it’s the endorphins, or maybe it’s refocussing my attention on some other activity which enables a new idea. Perhaps it is the momentary feeling of being untethered that gives the mind free rein—the space to have a good idea.
 
-Chapters:
-- Go into chaos to create your own order.
-- Dopamine Trails - optimization
-- "War between monotony and novelty, between stasis and creativity and in this war our side (human side) is not destined to lose." "Human life without novelty is a life without creativity, without progress. It's a static society, a zero-sum game" - David Deutsch
+> The key here isn’t fitness—it’s just a feeling of being free, of forgetting for a moment that we are bound by gravity and logic and convention, of letting the magic happen. For me, perhaps it’s that my ideas just need to be jostled into the right place. Jogging jogs them. But there are mathematicians who try to alter their brain chemistry a little more directly. The Hungarian mathematician Paul Erdős was notoriously prolific, someone to whom the magic tricks seemed to come enviably easily. So, what was his secret? His friend Alfréd Rényi, a fellow-Hungarian, once said, “a mathematician is a machine for turning coffee into theorems.” And both men were caffeine enthusiasts. But Erdős was a person of extremes, and he also fuelled his ideas through a don’t-try-this-at-home technique: he used stimulants such as Ritalin and Benzedrine for much of his career. At one point, a friend, worried about Erdős’s health, challenged him to go off the drugs for a month, and Erdős agreed, but when the experiment was over he said that, on the whole, mathematics had been set back by his weeks of relative indolence.
+
+> Whereas Erdős sought hyper-focussed vigilance, other eminent mathematicians have found a hazy drowsiness to be the most fertile state of mind. Poincaré described lying in bed in a half-dream state as the ideal condition for coming up with new ideas. The philosopher and mathematician René Descartes famously loved to lounge in bed in the morning and think (I suppose to give evidence that he was). It was on one such morning—as the story goes—while dreamily watching the path of a fly flitting around on the ceiling, that he came up with the xy plane of Cartesian coordinates.
+
 
 Notes and quotes below could potentially go into Dopamine Trails philosophical foundation rather than this book.
 ---
