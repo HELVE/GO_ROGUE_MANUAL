@@ -11,15 +11,18 @@ Go Rogue is an essay on creative processes and methodologies that can be used th
 
 Coming up with ideas, the way a person manages to make the connections between concepts in their mind is a completely unique experience for every single human being. It is based on your life's timeline, your personal experiences that literally only happened to you in a very specific way and noone else apart from you can see them for what they truly are and what they mean in the grand scheme of things. We ourselves often come to realizations about our behaviour long time after the momment has passed. 
 
+Find your own methodology/approach.
+
 Creative methodology therefore cannot rely fully on some standarized notions and frameworks. Arguing about methods to approach various creative problems is basically only process of optimization, not a full A to B destination guide. One can obviously try to copy mechanisms and chains of causality to try to apply them to their own workflow but it will always stay unique to you and only you in the end as you are applying and modifying these patterns to your liking and preference in the end.
 
 Go Rogue Creative Manual gives you a possibility of optimization and gives you a framework to think about your own processes not in a collective sense but in a very personal and intimate way.
 
 If one takes up the road of creativity it becomes one's responsibility to figure out how to work with their unique "stats".
 
-Optimizing your life for only one objective is a beautiful thing but very dangerous. "Failing" something you devoted your entire life to can be a very emotional time. Make sure to have a backup always - or develop a couple of projects under the hood so you have something to fall back to instead of wallowing in self-pity.
+Optimizing your life for only one objective is a beautiful thing but very dangerous. "Failing" something you devoted your entire life to can be a very emotional and devastating time. To avoid that make sure to have a backup always - or develop a couple of projects under the hood so you have something to fall back to instead of wallowing in self-pity.
 
 Similarly you can apply this notion to always having one foot in knowledge (competence) while the other is in chaos and experimentation. See, both feet in order makes you complacent. Both feet in chaos is too much. Mind in the cloud, feet on the ground.
+
 
 
 Chapters:
