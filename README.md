@@ -15,7 +15,7 @@ Creative methodology therefore cannot rely fully on some standarized notions and
 
 Go Rogue Creative Manual gives you a possibility of optimization and gives you a framework to think about your own processes not in a collective sense but in a very personal and intimate way.
 
-
+If one takes up the road of creativity it becomes one's responsibility to figure out how to work with their unique "stats".
 
 Chapters:
 - Go into chaos to create your own order.
