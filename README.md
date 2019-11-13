@@ -17,6 +17,9 @@ Go Rogue Creative Manual gives you a possibility of optimization and gives you a
 
 If one takes up the road of creativity it becomes one's responsibility to figure out how to work with their unique "stats".
 
+Optimizing your life for only one objective is a beautiful thing but very dangerous. "Failing" something you devoted your entire life to can be a very emotional time. Make sure to have a backup always - or develop a couple of projects under the hood so you have something to fall back to instead of wallowing in self-pity.
+
+
 Chapters:
 - Go into chaos to create your own order.
 - Dopamine Trails - optimization
