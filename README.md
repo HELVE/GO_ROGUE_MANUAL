@@ -19,7 +19,7 @@ If one takes up the road of creativity it becomes one's responsibility to figure
 
 Optimizing your life for only one objective is a beautiful thing but very dangerous. "Failing" something you devoted your entire life to can be a very emotional time. Make sure to have a backup always - or develop a couple of projects under the hood so you have something to fall back to instead of wallowing in self-pity.
 
-Similarly you can apply this notion to always having one foot in knowledge (competence) while the other is in chaos and experimentation. 
+Similarly you can apply this notion to always having one foot in knowledge (competence) while the other is in chaos and experimentation. See, both feet in order makes you complacent. Both feet in chaos is too much. Mind in the cloud, feet on the ground.
 
 
 Chapters:
