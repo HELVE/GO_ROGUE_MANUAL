@@ -42,6 +42,7 @@ Optimize for no burnout. Pay attention to the process and your mental state. We 
 It's a long time to take care of your external (body and mind - Dopamine Trails).
 
 Minmaxing creative life. Human condition: limited amount of time, resources.
+Have right reasons to do someting.
 
 Ultimately throughout life we need to acquire 2 skills: 
 - of controlling your emotional responses to external stimulae. 
