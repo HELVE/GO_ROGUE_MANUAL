@@ -33,6 +33,9 @@ By self-destructive I mean making a break in your healthy patterns. Don't go to 
 
 Sometimes things like these are necessary to break through the fog. Order and chaos both have their function.
 
+10 years for your skill.
+10 years for your voice.
+
 Chapters:
 - Go into chaos to create your own order.
 - Staticity vs Creativity / War of Novelty
