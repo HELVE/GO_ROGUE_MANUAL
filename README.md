@@ -41,7 +41,7 @@ Optimize for no burnout. Pay attention to the process and your mental state. We 
 - 10 years for your voice.
 It's a long time to take care of your external (body and mind - Dopamine Trails).
 
-Minmaxing creative life. Human condition: limited amount of time, resources.
+Minmaxing creative life. Human condition: limited amount of time, resources. Choose to accept the suffering. Choose to manipulate the human condition for your mental benefit.
 Have right reasons to do someting. As long as you feel you're not wasting your time - then you're doing something right.
 
 Ultimately throughout life we need to acquire 2 skills: 
