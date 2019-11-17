@@ -48,6 +48,8 @@ Ultimately throughout life we need to acquire 2 skills:
 - of controlling your emotional responses to external stimulae. 
 - of manipulating your process of growth to avoid burnout in order to attain mastery.
 
+Choose your own battles. Whatever works. To choose your battles you have to be selfaware of what you are, who you are (Dopammine Trails).
+
 Chapters:
 - Go into chaos to create your own order.
 - Staticity vs Creativity / War of Novelty
