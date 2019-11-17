@@ -41,6 +41,8 @@ Optimize for no burnout. Pay attention to the process and your mental state. We 
 - 10 years for your voice.
 It's a long time to take care of your external (body and mind - Dopamine Trails).
 
+Minmaxing creative life. Human condition: limited amount of time, resources.
+
 Ultimately throughout life we need to acquire 2 skills: 
 - of controlling your emotional responses to external stimulae. 
 - of manipulating your process of growth to avoid burnout in order to attain mastery.
