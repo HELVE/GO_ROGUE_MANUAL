@@ -33,10 +33,12 @@ Sometimes things like these are necessary to break through the fog. Order and ch
 
 ---
 
-Vitaly Bulgarov - Activity burnout is a personal trauma. It's a broken bone you don't want to exercise in the future. Optimize for no burnout. Pay attention to the process and your mental state. We often disregard the symptoms and force things on ourselves. Slowly boiled lobster. Dead without realizing.
+> Activity burnout is a personal trauma. It's a broken bone you don't want to exercise in the future. - Vitaly Bulgarov 
 
-10 years for your skill.
-10 years for your voice.
+Optimize for no burnout. Pay attention to the process and your mental state. We often disregard the symptoms and force things on ourselves. As Bulgarov said bringing in a classic example. Slowly boiled lobster. Dead without realizing.
+
+- 10 years for your skill.
+- 10 years for your voice.
 It's a long time to take care of your external (body and mind - Dopamine Trails).
 
 Ultimately throughout life we need to acquire 2 skills: 
