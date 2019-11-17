@@ -27,6 +27,12 @@ Technology as a tool, not an end to itself. People often focus on the technology
 
 Activity burnout is a personal trauma. It's a broken bone you don't want to exercise in the future. Optimize for no burnout.
 
+Thought for today: Use your semi-"self-destructive" tendencies to trigger better productive behaviour and discovery. As I always said: from order into chaos is essential. Once you establish a pattern of work it becomes complacent over time. It becomes a bubble limiting your free will.
+
+By self-destructive I mean making a break in your healthy patterns. Don't go to sleep, decide to make an illogical decision whatever it may be, experiment and first and foremost exercise your free will, show your mind you can do things differently.
+
+Sometimes things like these are necessary to break through the fog. Order and chaos both have their function.
+
 Chapters:
 - Go into chaos to create your own order.
 - Staticity vs Creativity / War of Novelty
