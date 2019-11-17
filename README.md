@@ -39,6 +39,10 @@ Vitaly Bulgarov - Activity burnout is a personal trauma. It's a broken bone you 
 10 years for your voice.
 It's a long time to take care of your external (body and mind - Dopamine Trails).
 
+Ultimately throughout life we need to acquire 2 skills: 
+- of controlling your emotional responses to external stimulae. 
+- of manipulating your process of growth to avoid burnout in order to attain mastery.
+
 Chapters:
 - Go into chaos to create your own order.
 - Staticity vs Creativity / War of Novelty
