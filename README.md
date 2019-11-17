@@ -25,7 +25,7 @@ Similarly you can apply this notion to always having one foot in knowledge (comp
 
 Technology as a tool, not an end to itself. People often focus on the technology more than on the idea when working on project. They are afraid that the "quality" will be below standards. Let me tell you something - quality is entirely subjective. Eye of the beholder and all that. 
 
-Thought for today: Use your semi-"self-destructive" tendencies to trigger better productive behaviour and discovery. As I always said: from order into chaos is essential. Once you establish a pattern of work it becomes complacent over time. It becomes a bubble limiting your free will.
+Thought for today: Use your semi-"self-destructive" tendencies to trigger better productive behaviour and discovery. As I always believed: from order into chaos is essential. Once you establish a pattern of work it becomes complacent over time. It becomes a bubble limiting your free will.
 
 By self-destructive I mean making a break in your healthy patterns. Don't go to sleep, decide to make an illogical decision whatever it may be, experiment and first and foremost exercise your free will, show your mind you can do things differently.
 
