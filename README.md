@@ -25,6 +25,8 @@ Similarly you can apply this notion to always having one foot in knowledge (comp
 
 Technology as a tool, not an end to itself. People often focus on the technology more than on the idea when working on project. They are afraid that the "quality" will be below standards. Let me tell you something - quality is entirely subjective. Eye of the beholder and all that. 
 
+Activity burnout is a personal trauma. It's a broken bone you don't want to exercise in the future. Optimize for no burnout.
+
 Chapters:
 - Go into chaos to create your own order.
 - Staticity vs Creativity / War of Novelty
