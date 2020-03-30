@@ -11,6 +11,8 @@ Dive into chaos, come out enlightened!"
 
 EDIT: Potential VR guided experience essay? 
 
+EDIT: First Principle Reasoning vs Analogy Reasoning (Go Rogue)
+
 Go Rogue is an essay on creative processes and methodologies that can be used throughout a variety of industries and apply to  every individual willing to take his progress into their hands. 
 
 Coming up with ideas, the way a person manages to make the connections between concepts in their mind is a completely unique experience for every single human being. It is based on your life's timeline, your personal experiences that literally only happened to you in a very specific way and noone else apart from you can see them for what they truly are and what they mean in the grand scheme of things. We ourselves often come to realizations about our behaviour long time after the momment has passed. 
