@@ -6,11 +6,11 @@
 # GO ROGUE! - Manual On Creative Processes & Methods
 
 ```
-Dive into chaos, come out enlightened!"
+"Dive into chaos, come out enlightened!"
 ```
 
 ```
-Chaos is a state where all elements 
+"Chaos is a state where all elements 
 your require exist but aren't formed"
 ```
 
