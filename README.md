@@ -11,7 +11,7 @@
 
 ```
 "Chaos is a state where all elements 
-your require exist but aren't formed"
+you require exist but aren't formed"
 ```
 
 EDIT: First Principle Reasoning vs Analogy Reasoning (Go Rogue)
