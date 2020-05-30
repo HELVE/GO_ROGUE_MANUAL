@@ -9,6 +9,10 @@
 Dive into chaos, come out enlightened!"
 ```
 
+```
+Chaos is a state where all elements your require exist but aren't formed"
+```
+
 EDIT: Potential VR guided experience essay? 
 
 EDIT: First Principle Reasoning vs Analogy Reasoning (Go Rogue)
