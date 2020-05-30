@@ -10,7 +10,8 @@ Dive into chaos, come out enlightened!"
 ```
 
 ```
-Chaos is a state where all elements your require exist but aren't formed"
+Chaos is a state where all elements 
+your require exist but aren't formed"
 ```
 
 EDIT: Potential VR guided experience essay? 
