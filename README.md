@@ -14,9 +14,9 @@
 your require exist but aren't formed"
 ```
 
-EDIT: Potential VR guided experience essay? 
-
 EDIT: First Principle Reasoning vs Analogy Reasoning (Go Rogue)
+
+EDIT: Potential VR guided experience essay? 
 
 Go Rogue is an essay on creative processes and methodologies that can be used throughout a variety of industries and apply to  every individual willing to take his progress into their hands. 
 
