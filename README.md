@@ -100,6 +100,8 @@ trigger aspect to think about
 
 ### Extrinsic Motivation vs Intrinsic Motivation
 
+![](self-determination.png)
+
 - extrinsic motivation: doing a task for reasons beyond the task itself (job system/reward)
 - intrinsic motivation: doing a task for its own sake because we find it enjoyable or meaningful (hobby/drive)
 
