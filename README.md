@@ -105,7 +105,7 @@ trigger aspect to think about
 
 Intrinsic motivation is a far stronger and longer-lasting drive than extrinsic. Intrinsic can last a lifetime, extrinsic lasts only when the reward is there.
 
-"The Overjustification Effect"
+"The Overjustification Effect" - when an intrinsically motivated activity gains the properties of an extrinsic motivation we become much less involved in doing the activity. It is basically reconditioning your brain to expect specific rewards instead of relying on your own drive alone.
 
 ### Features
 + 5 processes you can implement into your personal, creative and business life.
