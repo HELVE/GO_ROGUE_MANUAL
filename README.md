@@ -98,12 +98,14 @@ trigger aspect to think about
 
 > My waking, working life, like my dream life, can sometimes feel like a series of epiphanies that are just beyond my reach—nonsensical symbols that I can’t read and invisible objects that I can’t see. I still don’t know where ideas come from, but I now seem to at least know something about my own methods for finding them, which I keep holding on to even as the realities of my professional and personal life evolve. I read around and talk to colleagues, trying to keep a steady flow of new ideas in my daily work. Honestly, the homework never stops—it just isn’t graded.
 
-#### Extrinsic Motivation vs Intrinsic Motivation
+### Extrinsic Motivation vs Intrinsic Motivation
 
 - extrinsic motivation: doing a task for reasons beyond the task itself (job system/reward)
 - intrinsic motivation: doing a task for its own sake because we find it enjoyable or meaningful (hobby/drive)
 
 Intrinsic motivation is a far stronger and longer-lasting drive than extrinsic. Intrinsic can last a lifetime, extrinsic lasts only when the reward is there.
+
+"The Overjustification Effect"
 
 ### Features
 + 5 processes you can implement into your personal, creative and business life.
